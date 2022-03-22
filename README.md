@@ -1,6 +1,6 @@
 ### HELLO, i'm Ahmed Essam 👋
 - 🔭 I’m currently working on great applications 
-- 🌱 I’m currently learning more about advanced reactjs & react native fundamentals.
+- 🌱 I’m currently learning more about advanced reactjs & react native.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: i love football & movies 
 <h1> I'm just a normal guy who wants to improve his skills everyday </h1>
